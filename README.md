@@ -17,7 +17,7 @@
 
 This 3-day course teaches students how to automate administrative tasks using PowerShell on Windows Server 2025. Students will learn essential scripting skills and advanced automation techniques for Microsoft Azure, Active Directory, Entra ID, SQL Server 2025, virtual machines, remote administration, and file management. Special attention is focused on new capabilities introduced in Windows Server 2025 and PowerShell 7+.
 
-> **AI Chat Assistant:** This course features an integrated, interactive **AI Tutor** available 24/7 directly within the courseware platform at no additional cost. Learners can ask questions in real time, get instant syntax checks and script breakdowns, and receive guided troubleshooting support throughout all automation labs.
+> **AI Chat Assistant:** This course features an integrated, interactive **AI Tutor** available 24/7 directly within the courseware platform at no additional cost. Learners can ask questions in real time to investigate advanced scripting constructs, explore Active Directory and Microsoft Entra ID management cmdlets, and analyze cloud automation workflows.
 
 ### At Course Completion 
 
