@@ -2,6 +2,8 @@
 
 # Course 65319A: Advanced Automated Administration with Windows PowerShell
 
+**Courseware Access:** [Software Tutorial Services](https://www.softwaretutorialservices.com/course/65319a)
+
 ## Course Metadata
 
 * **Course Number:** 65319A 
@@ -14,6 +16,8 @@
 ## Course Overview
 
 This 3-day course teaches students how to automate administrative tasks using PowerShell on Windows Server 2025. Students will learn essential scripting skills and advanced automation techniques for Microsoft Azure, Active Directory, Entra ID, SQL Server 2025, virtual machines, remote administration, and file management. Special attention is focused on new capabilities introduced in Windows Server 2025 and PowerShell 7+.
+
+> **Modern AI-Powered Learning:** This course features an integrated, interactive **AI Tutor** available 24/7 directly within the courseware platform at no additional cost. Learners can ask questions in real time, get instant syntax checks and script breakdowns, and receive guided troubleshooting support throughout all automation labs.
 
 ### At Course Completion 
 
